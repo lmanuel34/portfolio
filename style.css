@@ -1,10 +1,11 @@
 
 /* 1. General */
 
+
 html, body { height: 100%; }
 
 body {
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 	margin: 0 auto;
 	background-color: #fff;
 	color: #333;
@@ -240,7 +241,7 @@ input.error, textarea.error {
 	padding: 0;
 	list-style: none;
 	display: inline-block;
-	*display: inline;
+	
 }
 
 #nav ul li {
